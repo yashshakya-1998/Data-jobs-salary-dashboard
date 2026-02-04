@@ -12,7 +12,7 @@ The dashboard provides insights into:
 
 ### 🎥 Dashboard Walkthrough Video
 
-<video controls src="images/video.mp4" title="Title"></video>
+(https://github.com/user-attachments/assets/a49c5107-b38c-433e-9193-e4d19fa1d29b)
 
 The goal is to help aspiring and working data professionals make **data-driven career decisions**.
 
