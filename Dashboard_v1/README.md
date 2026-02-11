@@ -11,8 +11,7 @@ The dashboard provides insights into:
 - 📈 Job trends and hiring platforms
 
 ### 🎥 Dashboard Walkthrough Video
-(https://github.com/yashshakya-1998/Data-jobs-salary-dashboard/issues/1#issue-3894302648)
-
+https://github.com/yashshakya-1998/Data-jobs-salary-dashboard/issues/1#issue-3894302648
 
 The goal is to help aspiring and working data professionals make **data-driven career decisions**.
 
