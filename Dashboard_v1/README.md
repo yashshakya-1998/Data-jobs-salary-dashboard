@@ -11,8 +11,8 @@ The dashboard provides insights into:
 - 📈 Job trends and hiring platforms
 
 ### 🎥 Dashboard Walkthrough Video
+<video controls src="../images/video.mp4" title="Title"></video>
 
-<video controls src="<video controls src="../images/video.mp4" title="Title"></video></video>
 
 The goal is to help aspiring and working data professionals make **data-driven career decisions**.
 
